@@ -1,0 +1,19 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081"
+	},
+	"id": "yourname.level-stats-editor",
+	"name": "Level Stats Editor",
+	"version": "v1.0.0",
+	"developer": "YourName",
+	"description": "Right-click a level's info button to edit the Attempts and Jumps shown in its info popup.",
+	"settings": {
+		"show-edited-values": {
+			"type": "bool",
+			"name": "Show edited values",
+			"description": "When enabled, the level info popup shows your edited Attempts and Jumps. Turn this off to see the real stats again without deleting your edits.",
+			"default": true
+		}
+	}
+}
